@@ -18,7 +18,7 @@
 - 1.克隆代码
 
 ```shell
-git clone 
+git clone https://github.com/AZiMiao1122/mo_fish_review.git
 ```
 
 
